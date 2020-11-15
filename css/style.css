@@ -1,0 +1,137 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.sec{
+	padding: 50px 0px;
+}
+.titles{
+	text-align: center;
+	color: black;
+}
+.pColor{
+	color: #586069!important;
+}
+/* start navbar*/
+.signUp{
+	border:1px solid #ddd;
+	border-radius: 3px;
+	margin-left: 10px;
+}
+.navbar{
+	padding: 15px;
+}
+/*end navbar*/
+/*start first section*/
+#firstSection{
+	background-image: url(../img/jetpack.jpg);
+	background-color: rgba(0,0,10,0.7);
+}
+/*start left side*/
+.leftSide h1{
+	color: #fff;
+	font-size: 70px;
+	font-weight: 600;
+}
+.leftSide p{
+	color: #bbb;
+	font-weight: 400;
+}
+.leftSide p a{
+	text-decoration: none;
+	border-bottom: 1px dotted #ddd;
+	color: #eee;
+}
+.leftSide{
+	margin-top:8%;
+}
+/*end left side*/
+/*start right side*/
+.rightSide form{
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 5px;
+	width: 80%;
+	margin-left: 7%;
+	margin-top: 10%;
+
+}
+.rightSide form p{
+	font-size: 12px;
+	color: #6a737d;
+}
+.rightSide form p span{
+	color: #28a745!important;
+}
+.rightSide form input{
+	height: 45px;
+}
+#subBtn{
+	background-color: #2ebc4f!important;
+	height: 60px;
+}
+/*end right side*/
+/*end first section*/
+
+/*start second section*/
+.enterpriseP{
+	color: #586069!important;
+	margin-bottom: 15px;
+}
+.enterpriseBtn{
+	height: 50px;
+	font-size: 14px;
+	font-weight: 600;
+	text-align: center!important;
+}
+.sales{
+	background-color: #1277eb;
+	border-radius: 3px;
+	color: white;
+}
+.trial{
+	background-color: #fff;
+	border-color: #1277eb;
+	border-radius: 3px;
+	color: #1277eb;
+}
+/* end second section*/
+
+/*start third section*/
+.brandsImage,.brandsImage2{
+	display: flex;
+	margin-top: -2%;
+}
+.brandsImage img,.brandsImage2 img{
+	height: 25px;
+    margin: 10px;
+    width: auto;
+    filter: grayscale(100%);
+    text-align: center;
+}
+.brandsImage2{
+	padding: 0px 4%;
+}
+/*end third section*/
+
+/*start fourth section*/
+.teamP{
+	font-size: 21px;
+	font-weight: 400;
+}
+.teamh{
+	font-size: 48px;
+}
+#fourthSection button{
+	padding: 15px 55px;
+}
+.teamDiv{
+	padding: 20px;
+	margin-bottom: 10px;
+}
+.teamDiv:hover{
+	border:1px solid #ddd;
+	box-shadow: 0px 0px 15px #ddd;
+}
+
+/*end fourth section*/
